@@ -1,3 +1,6 @@
+// Increase score
+obj_game.points += 1;
+
 instance_destroy(other); // Destroy bullet
 effect_create_above(ef_explosion, x, y, 1, c_white); // Explosion effect
 
