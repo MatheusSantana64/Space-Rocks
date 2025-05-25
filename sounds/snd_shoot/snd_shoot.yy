@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"snd_rocks",
+  "%Name":"snd_shoot",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -9,8 +9,8 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":119.928,
-  "name":"snd_rocks",
+  "duration":0.21149659,
+  "name":"snd_shoot",
   "parent":{
     "name":"Sons",
     "path":"folders/Sons.yy",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"snd_rocks.mp3",
+  "soundFile":"snd_shoot.wav",
   "type":0,
-  "volume":0.5,
+  "volume":1.0,
 }

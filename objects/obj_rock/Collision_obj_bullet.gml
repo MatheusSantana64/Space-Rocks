@@ -1,3 +1,5 @@
+audio_play_sound(snd_rockdestroy, 0, false, 1, 0, random_range(0.8, 1.2))
+
 // Increase score
 obj_game.points += 1;
 
