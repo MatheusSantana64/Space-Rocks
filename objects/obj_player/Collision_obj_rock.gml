@@ -3,6 +3,9 @@ instance_destroy();
 
 with(obj_game) {
 	alarm[0] = 120;
+	if(points > highscore){
+		highscore = points;
+	}
 }
 
 audio_play_sound(snd_lose, 0, false);
