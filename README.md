@@ -2,6 +2,8 @@
 An Asteroids-like arcade space shooter game made with GameMaker.
 
 ![Space Rocks Screenshot](Screenshots/SpaceRocks_Screenshot.png)
+![PowerUp Screenshot](Screenshots/SpreadPowerUp_Screenshot.png)
+![Main Menu Screenshot](Screenshots/Menu_Screenshot.png)
 
 ## Description
 Space Rocks is a classic arcade-style space shooter where you pilot a spaceship through an asteroid field, destroying rocks and avoiding collisions.
